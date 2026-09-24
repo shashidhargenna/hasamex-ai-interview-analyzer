@@ -207,3 +207,12 @@ The application combines semantic retrieval with transcript-grounded generation 
 
 The implementation is designed to be simple, traceable, and aligned with the requirements of the Hasamex AI Engineer technical case study.
 
+
+
+
+
+
+####  Demo Video
+
+[Watch the Loom Demo](https://www.loom.com/share/f56c09d2a26c4b688f13f04bb2aabb8f)
+
